@@ -19,7 +19,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=ArmahTutorial,Windows=ArmahTutorial,_Debug=ArmahTutorial,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=ArmahTutorial,Windows=ArmahTutorial,_Debug=ArmahTutorial,Web=ArmahTutorial,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>

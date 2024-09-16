@@ -1,0 +1,1 @@
+var gamefiles = ['ArmahTutorial.ags', 'acsetup.cfg'];
